@@ -5,4 +5,6 @@ This is the pinteresting2 sample app application for
 
 Second change on the readme
 
+this is the third change on readme
+
 by [Eugenio Martinez](about.me/eugeniomarts)
